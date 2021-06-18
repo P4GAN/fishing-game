@@ -1,0 +1,27 @@
+How to Play
+Run mainGame.py
+
+Up and down arrow keys to move the fishing rod up and down, when fish get near they will be attracted. When the fish gets hooked, the rod will turn green, and you can pull the fish up to catch it
+
+Use buttons to buy and sell fish, and change location
+
+Save game button is at top middle
+
+Upgrades
+-fishing rod (larger attracting radius)
+-bait (more fish spawning)
+-backpack (more storage for fish)
+-bank upgrade (larger maximum balance)
+-boat upgrade (can visit more locations)
+
+Random Events
+-fish price changing
+-increase or decrease in player's balance
+
+Art credits
+
+http://www.godsandidols.com/
+https://craftpix.net/
+https://opengameart.org/content/sky-backdrop
+
+Email me if you have any queries
